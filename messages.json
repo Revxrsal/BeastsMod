@@ -1,0 +1,11 @@
+{
+  "victory": "#BEASTS Only is OP",
+  "loss": "BEASTS Only will taunt you",
+  "victoryTriggers": [
+    "VICTORY"
+  ],
+  "lossTriggers": [
+    "GAME OVER",
+    "GAME END"
+  ]
+}
