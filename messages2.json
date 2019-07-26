@@ -1,6 +1,6 @@
 {
-  "victory": "#BEASTS Only is OP",
-  "loss": "BEASTS Only will taunt you",
+  "victory": "/ac #BEASTS Only is OP",
+  "loss": "/ac BEASTS Only will taunt you",
   "victoryTriggers": [
     "VICTORY"
   ],
